@@ -62,5 +62,5 @@ Mode: 2 | Temp: 25.6°C | Pressure: 1012.5 hPa | Altitude: 35.2m | Rotary: 62.3%
 This project is open-source under the **MIT License**. Feel free to modify and improve it!
 
 ---
-**Author:** Pha.Chon (Teeraphop Chantra)
+**Author:** Pha.Chon (Thiraphop Chantra)
 
